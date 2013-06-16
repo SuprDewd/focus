@@ -1,0 +1,5 @@
+So school is starting soon! Tomorrow, and the day after that, I'll be at my new university on the so-called newcomer's days. These days will probably be used for introducing the school and some related things. The first real schoolday is then on Monday, and I'm looking forward to it (a lot).
+
+But here's the thing. The reason I created this blog was to blog about my school experience, what I learn on each day and so on. So, starting Monday, I'll try my best to write a small blog post on each day, going over what I learned each day. As I get more experience, I might change the layout of this. Perhaps I'll write a post every weekend, covering everything I learned the past week, or something else. But my current plan is to blog daily, that way I'm fresh with what I just learned, so it'll be easier to write about.
+
+We'll see how it goes. I'm so excited!

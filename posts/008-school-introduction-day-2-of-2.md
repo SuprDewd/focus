@@ -1,0 +1,1 @@
+Today was the second newcomer's day. The format today was similar to yesterday. Just presentations about student services. Afterwards there were free hot dogs.

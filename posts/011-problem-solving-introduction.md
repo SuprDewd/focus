@@ -1,0 +1,9 @@
+One of the courses I've really been looking forward to is *Problem Solving*, but I attended the first class today. The teacher explained the layout of the course, and then we took a test.
+
+First I'll tell you about the course layout. In every class we will be split up into groups of four (or two, depending on the assignment), and each group will be given a problem to solve. The group then discusses the problem, tries to solve it, and then writes an attempt at a solution (preferably in $\LaTeX$), and then hands it in when class is over. And maybe I should also mention that each class is about 4 hours in length.
+
+We took a test today, which consisted of 30 questions. The questions were short and tested pattern matching and basic logic. The test was basically a warm up for what is to come.
+
+Then at the end of the class we were given an assignment, which is to install $\LaTeX$ and to read the [$\LaTeX$ wikibook](http://en.wikibooks.org/wiki/LaTeX). I need to take a look at $\LaTeX$ again. I read a book about it, but I've never used it much and there a few months since I used it at all, so most of what I knew is forgotten. But we'll probably only be using a small subset of it anyway, so it probably isn't much I'll need to learn again (although, $\LaTeX$ knowledge will become more important later in my studies, so I might as well try to learn as much as I can now). But the teacher also recommended a cool $\LaTeX$ development environment, [Texmaker](http://www.xm1math.net/texmaker/), which I haven't seen before and think is pretty neat. Reminds me of MySQL Workbench for whatever reason.
+
+Next Problem Solving class is on Thursday, but I think we'll solve our first problem then.

@@ -1,0 +1,1 @@
+Today I went on the first newcomer's day. To sum up, there were multiple presentations about school related things and services provided by the school. There's not really much to say. The second part of the presentations will be tomorrow, and then we finally start next Monday.

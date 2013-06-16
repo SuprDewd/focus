@@ -1,0 +1,11 @@
+Ever since I wandered upon Node.js some time ago, I&rsquo;ve always wanted to build something bigger than the usual &ldquo;chat&rdquo; demo with it. I believe Node is here to stay and it will be used more and more in web development over the next years. Now that I finally got around to reading more about web development in Node, I learned about some new technologies. The first one I&rsquo;m going to mention is Jade.
+
+The creators of Jade described is as a &ldquo;*robust, elegant, feature rich template engine for nodejs*&rdquo;. I&rsquo;ll explain what I know so far about the Jade project. First, it is a programming language: a kind of a simplified, but more feature rich, version of HTML. Usually, a file containing Jade code has the file extension .jade. Second, it is a compiler for the Jade language. The compiler takes that Jade code and compiles it into regular HTML code.
+
+Some people might now ask &ldquo;why go through the trouble of learning Jade, then coding Jade, just for that to be converted back to regular HTML which they probably already knew and are comfortable with?&rdquo;. Jade is so much more, and can do so much more, than just regular HTML. First, it is a very clean language (HTML, and the XML family in general, are very ugly, all those `<brackets>`). That also makes it designer-friendly (that is, you don&rsquo;t have to be a programmer to be able to code Jade). Second, JavaScript is kind of integrated into the language. That means you can use if/else/while/.. to shape the final HTML depending on a number of things, including the so-called &ldquo;locals&rdquo; which are regular JavaScript objects that can be passed to the Jade compiler.
+
+Jade can then be used from within [Express JS](https://github.com/visionmedia/express) (development framework for Node that I might cover later) to quickly and neatly build awesome application with Node.
+
+The Jade programming language is not too complex, but still has all the features you need. I&rsquo;m not going to go over the syntax here, since they already have a [great overview of it](https://github.com/visionmedia/jade#syntax).
+
+Take a look at [Jade&rsquo;s GitHub repository](https://github.com/visionmedia/jade) for everything you need to know about Jade.
